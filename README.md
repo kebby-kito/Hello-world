@@ -1,2 +1,6 @@
 # Hello-world
-just another repository
+
+
+Hi-friends!
+
+kebby kito here,i like javascript and php cos they are nice and effective.
